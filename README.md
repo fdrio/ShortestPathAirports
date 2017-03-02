@@ -1,10 +1,14 @@
 
 # ShortestPath
 This program is an implementation of a the BellMan-Ford Algorithm:
+
 The program reads from a text file with the following format for the vertices and edges.
 
 14 // This number represents the total vertices to be added.
+
 WA // The following single strings are the vertices that belong to the graph.
+
+
 CA1
 CA2
 UT
